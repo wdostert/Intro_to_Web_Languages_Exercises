@@ -1,0 +1,12 @@
+body {
+    font-family: Impact;
+    background-color: #2b8011;
+}
+
+#main-title {
+    text-align: center;
+}
+
+.content {
+    margin-bottom: 12px;
+}
